@@ -240,11 +240,12 @@ footer {
     width: 100%;
 }
 
-/* Form
+/* form */
+
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("/assets/images/signup.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -293,7 +294,8 @@ footer {
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
-} */
+}
+
 
 
 /*  media queries */
